@@ -1,0 +1,28 @@
+
+[
+    {
+        "_id": "5c8a1d5b0190b214360dc057",
+        "name":"trotinette electrique",
+        "email": "hadi@gmail.com",
+        "role": "admin",
+        "password": "hadi2004" 
+
+    },
+    {
+        "_id": "5c8a1dfa2f8fb814b56fa181",
+        "name":"Un kanez sauvage",
+        "email": "yacine@gmail.com",
+        "role": "user",
+        "password": "yacine2004" 
+    },
+    {
+        "_id": "5c8a1e1a2f8fb814b56fa182",
+        "name":"Le nounourse",
+        "email": "nounours@gmail.com",
+        "role": "admin",
+        "password": "nounours2004" 
+    }
+
+
+]
+

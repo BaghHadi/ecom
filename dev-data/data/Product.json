@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "name":"trotinette electrique",
+        "price": 70000,
+        "description":"La Xiaomi Mi Scooter M365 est une trottinette électrique pliable de milieu de gamme. Pouvant monter jusqu'à 25 km/h en France, elle dispose d'une autonomie annoncée de 30 km. Elle est équipée de phares avant, d'un feux de stop et pèse 12,5 kg. "
+
+    },
+    {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "name":"Un kanez sauvage",
+        "price":50,
+        "description":"Le kanez sauvage est un animal rare mais tres kanez qui habite dans des milieux hostiles  "
+    },
+    {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "name":"Le nounourse",
+        "price":100000,
+        "description":"Animal domestique portable et grincheux"
+    }
+
+
+]
